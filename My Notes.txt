@@ -1,0 +1,11 @@
+# Warehouse
+This plugin allows the creation of warehouses where you can store items in the game.
+
+# Link
+http://forums.rpgmakerweb.com/index.php?/topic/50503-ph-warehousestorage/?view=findpost&p=499871
+
+# Notes
+None
+
+# License
+> Free for commercial and non-commercial use as long as you give the credits of this plugin.
